@@ -20,7 +20,7 @@ def yu(radius, color1, color2):
     t.fd(radius * 0.35)
     t.right(90)
     t.down()
-    t.color(color1, color2)
+    t.color('black', color2)
     t.begin_fill()
     t.circle(radius * 0.15)
     t.end_fill()

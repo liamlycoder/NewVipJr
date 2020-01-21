@@ -41,7 +41,7 @@ class MainWindow:
             self.player.moveRight()
 
 
-class Player(pygame.sprite.Sprite):
+class Player():
     def __init__(self, plane_img, init_pos):
         player_rect = pygame.Rect(0, 99, 102, 126)
         self.image = plane_img.subsurface(player_rect).convert_alpha()
