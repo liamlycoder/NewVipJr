@@ -12,9 +12,12 @@ soup = bs4.BeautifulSoup(req.text, "html.parser")
 lst = soup.find_all('a', {'target': "_blank"})
 for i in range(1, len(lst)):
     if i % 2 == 0:
-        print("          ---" + str(lst[i].contents[0]))
+        with open("result.txt", 'a') as f:
+            f.write("          ---" + str(lst[i].contents[0]) + "\n")
     else:
-        print(lst[i].contents[0])
+        with open("result.txt", 'a') as f:
+            f.write(lst[i].contents[0] + "\n")
+
 
 
 
