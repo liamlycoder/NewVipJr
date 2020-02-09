@@ -31,3 +31,9 @@ print(tuple1.count('Tencent'))
 # 4. len()
 print(len(tuple1))
 
+
+# 元组是不支持修改的，但如果元组里面有列表，则列表里面的数据是课修改的，故自觉很重要
+tuple2 = ('Baidu', ['Tencent', 'Alibaba'], 'Google')
+tuple2[1][0] = 'Microsoft'
+print(tuple2)
+
