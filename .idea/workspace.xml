@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="54c6c0e3-7544-4134-a6d8-61d71455b203" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/cls3_LogisticRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI/cls3_LogisticRegression.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -227,7 +226,12 @@
       <workItem from="1582086893993" duration="1202000" />
       <workItem from="1582173614223" duration="464000" />
       <workItem from="1582257691093" duration="1330000" />
-      <workItem from="1582282121591" duration="4525000" />
+      <workItem from="1582282121591" duration="4982000" />
+      <workItem from="1582357809691" duration="664000" />
+      <workItem from="1582367289771" duration="1659000" />
+      <workItem from="1582433497747" duration="1375000" />
+      <workItem from="1582517621529" duration="391000" />
+      <workItem from="1582604498989" duration="101000" />
     </task>
     <servers />
   </component>
