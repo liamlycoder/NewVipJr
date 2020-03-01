@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54c6c0e3-7544-4134-a6d8-61d71455b203" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AI/cls4_DecisionTree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -239,7 +238,9 @@
       <workItem from="1582777074733" duration="1049000" />
       <workItem from="1582799851174" duration="171000" />
       <workItem from="1582887191662" duration="1324000" />
-      <workItem from="1582912012325" duration="2284000" />
+      <workItem from="1582912012325" duration="2640000" />
+      <workItem from="1582962181823" duration="1026000" />
+      <workItem from="1582978541730" duration="163000" />
     </task>
     <servers />
   </component>
