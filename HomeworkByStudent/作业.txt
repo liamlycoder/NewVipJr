@@ -1,0 +1,9 @@
+import os
+
+name = input('请输入文件夹的名字')
+try:
+    os.chdir(name)
+except ZeroDivisionError:
+    os.mkdir(name)#directory制作一个文件夹
+    os.chdir(name)
+print(os.getcwd())
