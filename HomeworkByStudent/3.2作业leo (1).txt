@@ -1,0 +1,9 @@
+user = input('用户名: ')
+password = input('密码： ')
+with open("database.txt", "r") as f:
+    a = f.readlines()
+    for i in range(len(a)):
+        if i % 2 == 0:
+            if i+i[1] = password:
+                print("登陆成功")
+            print(a[i].strip('\n')))
