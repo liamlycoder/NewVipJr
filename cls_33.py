@@ -24,6 +24,10 @@ import time
 import calendar
 
 
+# print(calendar.month(2019, 4))
+# print(calendar.calendar(2020))
+
+
 def find_father_day(year):
     times = 0
     for day in range(1, 31):
@@ -33,32 +37,23 @@ def find_father_day(year):
             print("The Father's day of {} is {}.6.{}".format(year, year, day))
             break
 
-
+"""
 number_of_leap = calendar.leapdays(2000, 2018)
 print("一共有{}个闰年".format(number_of_leap))
 for y in range(2000, 2019):
     if calendar.isleap(y):
         find_father_day(y)
+"""
 
+# 你出生的那一天星期几？
+# print("我出生的那一天是星期{}".format(calendar.weekday(1997, 2, 20)+1))
 
-"""课外兴趣拓展：进度条小程序"""
-# scale = 50
-#
-# print("执行开始".center(scale,"-"))
-#
-# start = time.perf_counter()
-# for i in range(scale+1):
-#     a = '*' * i             # i 个长度的 * 符号
-#     b = '.' * (scale-i)  # (scale-i) 个长度的 . 符号。符号 * 和 . 总长度为50
-#     c = (i/scale)*100  # 显示当前进度，百分之多少
-#     dur = time.perf_counter() - start    # 计时，计算进度条走到某一百分比的用时
-#
-#     # \r用来在每次输出完成后，将光标移至行首，这样保证进度条始终在同一行输出，即在一行不断刷新的效果；
-#     # {:^3.0f}，输出格式为居中，占3位，小数点后0位，浮点型数，对应输出的数为c；
-#     # {}，对应输出的数为a；{}，对应输出的数为b；
-#     # {:.2f}，输出有两位小数的浮点数，对应输出的数为dur；
-#     # end=''，用来保证不换行，不加这句默认换行。
-#     print("\r{:^3.0f}%[{}->{}]{:.2f}s".format(c,a,b,dur),end='')
-#
-#     time.sleep(0.2)     # 在输出下一个百分之几的进度前，停止0.1秒
-# print("\n"+"执行结果".center(scale,'-'))
+import datetime
+print(datetime.date(1997, 2, 20) + datetime.timedelta(days=10000))  # 你出生后10000天的日期是什么？
+
+d0 = datetime.date(1997, 2, 20)
+# d1 = datetime.date(2020, 3, 5)
+d1 = datetime.datetime.now().date()
+
+print(d1-d0)  # 从出生到今天为止
+
