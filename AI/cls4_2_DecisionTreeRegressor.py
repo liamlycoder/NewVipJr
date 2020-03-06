@@ -20,12 +20,27 @@ PTRATIO：城镇师生比例；　　　　　　　　　　　　B：1000（Bk
 LSTAT：人口中地位低下者的比例。
 """
 
-X_train, X_test, y_train, y_test = train_test_split(boston.data, boston.target, test_size=0.3)
+X_train, X_test, y_train, y_test = train_test_split(boston.data, boston.target, test_size=0.3, random_state=30)
 
 # 建树三部曲
-dtr = DecisionTreeRegressor()
+dtr = DecisionTreeRegressor(random_state=30, max_depth=6)
 dtr.fit(X_train, y_train)
 score = dtr.score(X_test, y_test)
 print(score)
+
+# 如何调参
+import matplotlib.pyplot as plt
+test = []
+for i in range(10):
+    dtr = DecisionTreeRegressor(random_state=30, max_depth=i+1)
+    dtr.fit(X_train, y_train)
+    score = dtr.score(X_test, y_test)
+    test.append(score)
+plt.plot(range(1, 11), test, color='red', label='max_depth')
+plt.legend()
+plt.show()
+
+
+
 
 
