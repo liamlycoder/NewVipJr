@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54c6c0e3-7544-4134-a6d8-61d71455b203" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Calculator/calc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/Calculator.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/code_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/code_1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -252,7 +249,7 @@
       <workItem from="1583664326731" duration="324000" />
       <workItem from="1583750754234" duration="958000" />
       <workItem from="1583823768971" duration="2842000" />
-      <workItem from="1583837034158" duration="132000" />
+      <workItem from="1583837034158" duration="1231000" />
     </task>
     <servers />
   </component>
