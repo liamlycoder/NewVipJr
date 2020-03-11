@@ -92,7 +92,7 @@ class Calculator(object):
                                 font=self.ButtonFont)
         self.NumButton.place(x=190, y=380, width=70, height=55)
 
-        # 添加菜单（可选学）
+        # 添加菜单
         self.menuBar = Menu(master=self.tk)
         self.tk.config(menu=self.menuBar)
         aboutMenu = Menu(self.menuBar, tearoff=0)

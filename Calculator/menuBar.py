@@ -6,7 +6,6 @@
 # Software: PyCharm
 import tkinter as tk
 
-
 screen = tk.Tk()
 screen.title("史上最强窗口")
 screen.geometry('800x600')
@@ -18,11 +17,14 @@ resultLabel.place(x=30, y=30, width=740, height=60)
 def newPro():
     resultLabel.config(text='您点击了New Project...')
 
+
 def New():
     resultLabel.config(text='您点击了New...')
 
+
 def otherSet():
     resultLabel.config(text='您点击了Other Settings')
+
 
 menubar = tk.Menu(master=screen)
 filemenu = tk.Menu(master=menubar, tearoff=0)
