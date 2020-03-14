@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54c6c0e3-7544-4134-a6d8-61d71455b203" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AI/cls5_SVM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cls_18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -257,6 +257,8 @@
       <workItem from="1584122937691" duration="226000" />
       <workItem from="1584160714272" duration="569000" />
       <workItem from="1584161810691" duration="115000" />
+      <workItem from="1584172941182" duration="367000" />
+      <workItem from="1584188134101" duration="334000" />
     </task>
     <servers />
   </component>
