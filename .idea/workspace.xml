@@ -55,8 +55,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lambdaUsage">
-    <configuration name="code_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.cls_21">
+    <configuration name="cls_21" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NewVipJr_Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,12 +64,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Calculator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculator/code_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cls_21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cls_21" />
         <item itemvalue="Python.lambdaUsage" />
         <item itemvalue="Python.code_3" />
         <item itemvalue="Python.code_2" />
         <item itemvalue="Python.menuBar" />
-        <item itemvalue="Python.code_1" />
       </list>
     </recent_temporary>
   </component>
@@ -260,6 +260,9 @@
       <workItem from="1584188134101" duration="843000" />
       <workItem from="1584380732931" duration="6000" />
       <workItem from="1584448728847" duration="371000" />
+      <workItem from="1584792960906" duration="1018000" />
+      <workItem from="1584806700628" duration="23000" />
+      <workItem from="1585050057476" duration="451000" />
     </task>
     <servers />
   </component>
@@ -283,8 +286,8 @@
     <SUITE FILE_PATH="coverage/NewVipJr_Code$cls3_LogisticRegression.coverage" NAME="cls3_LogisticRegression Coverage Results" MODIFIED="1582291758277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
     <SUITE FILE_PATH="coverage/NewVipJr_Code$cls_24.coverage" NAME="cls_24 Coverage Results" MODIFIED="1580363694363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewVipJr_Code$cls_15.coverage" NAME="cls_15 Coverage Results" MODIFIED="1580950955437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NewVipJr_Code$cls_21.coverage" NAME="cls_21 Coverage Results" MODIFIED="1579497505721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewVipJr_Code$cls_41.coverage" NAME="cls_41 Coverage Results" MODIFIED="1579657129047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewVipJr_Code$cls_21.coverage" NAME="cls_21 Coverage Results" MODIFIED="1585050075449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewVipJr_Code$cls2_LinearRegression.coverage" NAME="cls2_LinearRegression Coverage Results" MODIFIED="1582291550043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
     <SUITE FILE_PATH="coverage/NewVipJr_Code$cls2_1_MultiLinearRegression.coverage" NAME="cls2_1_MultiLinearRegression Coverage Results" MODIFIED="1581795239344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
     <SUITE FILE_PATH="coverage/NewVipJr_Code$code_2.coverage" NAME="code_2 Coverage Results" MODIFIED="1583921512399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator" />
