@@ -43,6 +43,8 @@ def hanoi(n, x, y, z):
         print(x, "--->", z)
         hanoi(n-1, y, x, z)
 
+# 命令： python3 -m turtledemo.minimal_hanoi
+
 
 if __name__ == '__main__':
     hanoi(3, 'X', 'Y', 'Z')
