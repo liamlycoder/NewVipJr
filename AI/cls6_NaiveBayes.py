@@ -38,4 +38,4 @@ from sklearn.metrics import confusion_matrix as CM
 
 # 打印混淆矩阵
 cmresult = CM(Ytest, Y_pred)
-# print(cmresult)
+print(cmresult)
