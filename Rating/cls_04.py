@@ -2,7 +2,7 @@
 @Author: Liam
 @E-mail: luyu.real@qq.com
 @Date: 2020-04-19 13:05:26
-@LastEditTime: 2020-04-19 13:31:54
+@LastEditTime: 2020-04-19 13:43:12
 @Software: Visual Studio Code
 '''
 import turtle as t
@@ -81,5 +81,3 @@ t.pencolor("purple")
 t.circle(purple_r, 180, steps=15)
 
 t.done()
-
-
