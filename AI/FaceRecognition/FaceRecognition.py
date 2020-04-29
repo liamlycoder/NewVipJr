@@ -4,4 +4,9 @@
 # Author: Liam
 # E-mail: luyu.real@qq.com
 # Software: PyCharm
+import cv2 as cv
+image = cv.imread("cover.jpg")
+cv.imshow("input image", image)
+cv.waitKey(0)
+cv.destroyAllWindows()
 
