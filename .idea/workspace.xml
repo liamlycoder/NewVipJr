@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6540ee4-2821-4809-9ea2-9535df770a03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/FaceRecognition/FaceRecognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI/FaceRecognition/FaceRecognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/FaceRecognition/05人脸检测.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI/FaceRecognition/05人脸检测.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/FaceRecognition.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-427">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="273">
+              <caret line="23" column="48" lean-forward="true" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
               <folding>
                 <element signature="e#120#138#0" expanded="true" />
               </folding>
@@ -30,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/01读取图片.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="133">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -66,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/05人脸检测.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="247">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -93,15 +90,15 @@
         <option value="$PROJECT_DIR$/AI/FaceRecognition/09人脸识别.py" />
         <option value="$PROJECT_DIR$/AI/FaceRecognition/FaceRecognition.py" />
         <option value="$PROJECT_DIR$/AI/FaceRecognition/cvDemon.py" />
-        <option value="$PROJECT_DIR$/AI/FaceRecognition/05人脸检测.py" />
         <option value="$PROJECT_DIR$/AI/FaceRecognition/04绘制矩形_圆.py" />
         <option value="$PROJECT_DIR$/AI/FaceRecognition/03修改图片的尺寸.py" />
         <option value="$PROJECT_DIR$/AI/FaceRecognition/02将图片灰度转换.py" />
         <option value="$PROJECT_DIR$/AI/FaceRecognition/01读取图片.py" />
+        <option value="$PROJECT_DIR$/AI/FaceRecognition/05人脸检测.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="width" value="734" />
     <option name="height" value="1087" />
@@ -147,7 +144,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -166,29 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.05人脸检测">
-    <configuration name="01读取图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NewVipJr" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AI/FaceRecognition" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AI/FaceRecognition/01读取图片.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.FaceRecognition">
     <configuration name="02将图片灰度转换" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NewVipJr" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -277,13 +252,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="FaceRecognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NewVipJr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AI/FaceRecognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AI/FaceRecognition/FaceRecognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FaceRecognition" />
         <item itemvalue="Python.05人脸检测" />
         <item itemvalue="Python.04绘制矩形_圆" />
         <item itemvalue="Python.03修改图片的尺寸" />
         <item itemvalue="Python.02将图片灰度转换" />
-        <item itemvalue="Python.01读取图片" />
       </list>
     </recent_temporary>
   </component>
@@ -307,23 +304,23 @@
       <workItem from="1588122255187" duration="3846000" />
       <workItem from="1588318784854" duration="287000" />
       <workItem from="1588319139584" duration="15000" />
-      <workItem from="1588319311573" duration="4904000" />
+      <workItem from="1588319311573" duration="5915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15718000" />
+    <option name="totallyTimeSpent" value="16729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="-8" width="1862" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20144284" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20144284" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952183" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3253638" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.031185031" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -345,12 +342,12 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/NewVipJr$05.coverage" NAME="05人脸检测 Coverage Results" MODIFIED="1588325219106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
+    <SUITE FILE_PATH="coverage/NewVipJr$05.coverage" NAME="05人脸检测 Coverage Results" MODIFIED="1588326116160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
     <SUITE FILE_PATH="coverage/NewVipJr$02.coverage" NAME="02将图片灰度转换 Coverage Results" MODIFIED="1588325172742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
     <SUITE FILE_PATH="coverage/NewVipJr$cls_07_100_.coverage" NAME="cls_07_100% Coverage Results" MODIFIED="1588124909275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rating" />
     <SUITE FILE_PATH="coverage/NewVipJr$04_.coverage" NAME="04绘制矩形_圆 Coverage Results" MODIFIED="1588325183246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
     <SUITE FILE_PATH="coverage/NewVipJr$09.coverage" NAME="09人脸识别 Coverage Results" MODIFIED="1588324434824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
-    <SUITE FILE_PATH="coverage/NewVipJr$FaceRecognition.coverage" NAME="FaceRecognition Coverage Results" MODIFIED="1588324970145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
+    <SUITE FILE_PATH="coverage/NewVipJr$FaceRecognition.coverage" NAME="FaceRecognition Coverage Results" MODIFIED="1588326267251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
     <SUITE FILE_PATH="coverage/NewVipJr$03.coverage" NAME="03修改图片的尺寸 Coverage Results" MODIFIED="1588325177656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
     <SUITE FILE_PATH="coverage/NewVipJr$01.coverage" NAME="01读取图片 Coverage Results" MODIFIED="1588325168151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
     <SUITE FILE_PATH="coverage/NewVipJr$08.coverage" NAME="08训练数据 Coverage Results" MODIFIED="1588324267958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
@@ -422,20 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/01读取图片.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/02将图片灰度转换.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/03修改图片的尺寸.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -450,17 +433,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/02将图片灰度转换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/01读取图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/05人脸检测.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/FaceRecognition.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-427">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="273">
+          <caret line="23" column="48" lean-forward="true" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
           <folding>
             <element signature="e#120#138#0" expanded="true" />
           </folding>
