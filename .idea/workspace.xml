@@ -15,8 +15,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Rating/cls_07.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="741">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rating/cls_06.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -80,6 +89,11 @@
               <item name="NewVipJr" type="462c0819:PsiDirectoryNode" />
               <item name="AI" type="462c0819:PsiDirectoryNode" />
               <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewVipJr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewVipJr" type="462c0819:PsiDirectoryNode" />
+              <item name="Rating" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -265,17 +279,20 @@
       <workItem from="1588661163528" duration="1903000" />
       <workItem from="1588687955225" duration="597000" />
       <workItem from="1588819904488" duration="974000" />
+      <workItem from="1588934043911" duration="1329000" />
+      <workItem from="1588988825141" duration="599000" />
+      <workItem from="1589023497517" duration="1155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26727000" />
+    <option name="totallyTimeSpent" value="29810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="-8" width="1862" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15482797" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15982242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -326,13 +343,6 @@
     <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/data/jm/8.pgm" />
     <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/data/jm/7.pgm" />
     <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/data/jm/1.pgm" />
-    <entry file="file://$PROJECT_DIR$/cls_32.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/08训练数据.py" />
     <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/09人脸识别.py" />
     <entry file="file://$PROJECT_DIR$/AI/FaceRecognition/cvDemon.py" />
@@ -381,13 +391,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rating/cls_06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AI/DeepLearning/test.py" />
     <entry file="file://$PROJECT_DIR$/AI/DeepLearning/cls_1_Perceptron.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -396,10 +399,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cls_32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cls_33.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rating/cls_06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Rating/cls_07.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="741">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
         </state>
       </provider>
     </entry>
