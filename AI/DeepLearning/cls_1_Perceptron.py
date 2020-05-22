@@ -17,12 +17,13 @@ class Perceptron(object):
         return "weights:{}\nbias:{}\n".format(self.weights, self.bias)
 
     def predict(self, input_vec):
-        return self.activator(reduce(lambda a, b: a + b, map(lambda x: x[0]*x[1], zip(input_vec, self.weights)), 0.0) + self.bias)
+        return self.activator(
+            reduce(lambda a, b: a + b, map(lambda x: x[0] * x[1], zip(input_vec, self.weights)), 0.0) + self.bias)
 
     def _update_weight(self, input_vec, output, label, rate):
         delta = label - output
-        self.weights = list(map(lambda x: x[1] + rate*delta*x[0], zip(input_vec, self.weights)))
-        self.bias += rate*delta
+        self.weights = list(map(lambda x: x[1] + rate * delta * x[0], zip(input_vec, self.weights)))
+        self.bias += rate * delta
 
     def _one_iteration(self, input_vecs, labels, rate):
         samples = zip(input_vecs, labels)
@@ -48,11 +49,13 @@ def get_trainning_dataset():
     labels = [1, 0, 0, 0]
     return input_vecs, labels
 
+
 def train_and_perceptron():
     p = Perceptron(2, f)
     input_vecs, labels = get_trainning_dataset()
     p.train(input_vecs, labels, 8, 0.1)
     return p
+
 
 if __name__ == '__main__':
     and_perception = train_and_perceptron()
@@ -61,8 +64,3 @@ if __name__ == '__main__':
     print("0 and 0 = {}".format(and_perception.predict([0, 0])))
     print("1 and 0 = {}".format(and_perception.predict([1, 0])))
     print("1 and 1 = {}".format(and_perception.predict([0, 1])))
-
-
-
-
-
