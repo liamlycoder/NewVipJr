@@ -47,7 +47,7 @@ class Player():
         self.image = plane_img.subsurface(player_rect).convert_alpha()
         self.rect = player_rect
         self.rect.topleft = init_pos
-        self.speed = 8
+        self.speed = 1
 
     def moveUp(self):
         self.rect.top -= self.speed
