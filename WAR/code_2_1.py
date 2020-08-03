@@ -16,7 +16,7 @@ class MainWindow:
         pygame.init()
         self.screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
         pygame.display.set_caption("飞机大战")
-        plane_img = pygame.image.load("images/myPlane.png")
+        plane_img = pygame.image.load(r"resources/image/shoot.png")
         self.player = Player(plane_img, [200, 600])
 
     def show(self):
@@ -47,7 +47,7 @@ class Player():
         self.image = plane_img.subsurface(player_rect).convert_alpha()
         self.rect = player_rect
         self.rect.topleft = init_pos
-        self.speed = 1
+        self.speed = 10
 
     def moveUp(self):
         self.rect.top -= self.speed
