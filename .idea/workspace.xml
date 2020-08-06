@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6540ee4-2821-4809-9ea2-9535df770a03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/NewVipJr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NewVipJr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WAR/code_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/WAR/code_2_1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -365,7 +362,8 @@
       <workItem from="1596325683631" duration="4014000" />
       <workItem from="1596445146555" duration="164000" />
       <workItem from="1596445320880" duration="535000" />
-      <workItem from="1596460136042" duration="463000" />
+      <workItem from="1596460136042" duration="2254000" />
+      <workItem from="1596548274961" duration="9000" />
     </task>
     <servers />
   </component>
