@@ -21,7 +21,7 @@ class MainWindow:
 
     def show(self):
         while True:
-            self.screen.fill((0, 0, 0))
+            self.screen.fill((255, 255, 255))
             self.player.drawPlane(self.screen)
             pygame.display.update()
             self.checkPressed()

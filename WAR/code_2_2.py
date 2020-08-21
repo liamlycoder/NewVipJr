@@ -16,12 +16,12 @@ class MainWindow:
         pygame.init()
         self.screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
         pygame.display.set_caption("飞机大战")
-        plane_img = pygame.image.load("images/myPlane.png")
+        plane_img = pygame.image.load("resources/image/shoot.png")
         self.player = Player(plane_img, [200, 600])
 
     def show(self):
         while True:
-            self.screen.fill((0, 0, 0))
+            self.screen.fill((255, 255, 255))
             self.player.drawPlane(self.screen)
             pygame.display.update()
             self.checkPressed()

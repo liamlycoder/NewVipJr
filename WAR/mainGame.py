@@ -5,6 +5,7 @@ import random
 SCREEN_WIDTH = 480
 SCREEN_HEIGHT = 800
 
+
 class Bullet(pygame.sprite.Sprite):
     def __init__(self, bullet_img, init_pos):
         pygame.sprite.Sprite.__init__(self)
@@ -15,6 +16,7 @@ class Bullet(pygame.sprite.Sprite):
 
     def move(self):
         self.rect.top -= self.speed
+
 
 class Enemy(pygame.sprite.Sprite):
     def __init__(self, enemy_img, enemy_down_imgs, init_pos, bullet_img):
@@ -56,6 +58,7 @@ class Enemy(pygame.sprite.Sprite):
     def drawBullets(self, scr):
         self.bullets.draw(scr)
 
+
 class Enemy_Bullet(pygame.sprite.Sprite):
     def __init__(self, bullet_img, init_pos):
         pygame.sprite.Sprite.__init__(self)
@@ -66,6 +69,7 @@ class Enemy_Bullet(pygame.sprite.Sprite):
 
     def move(self):
         self.rect.top += self.speed
+
 
 class Player(pygame.sprite.Sprite):
     def __init__(self, plane_img, init_pos):
@@ -83,7 +87,7 @@ class Player(pygame.sprite.Sprite):
         self.rect.topleft = init_pos
         self.speed = 1
         self.img_index = 0  # 玩家精灵图片索引
-        self.temp = 0 #切换造型自增
+        self.temp = 0  # 切换造型自增
         self.bullets = pygame.sprite.Group()  # 玩家飞机所发射的子弹的集合
         bullet_rect = pygame.Rect(1004, 987, 9, 21)
         self.bullet_image = plane_img.subsurface(bullet_rect)
@@ -139,6 +143,7 @@ class Player(pygame.sprite.Sprite):
 
     def drawBullets(self, scr):
         self.bullets.draw(scr)
+
 
 class MainWindow():
     def __init__(self):
@@ -243,7 +248,7 @@ class MainWindow():
             self.player.moveRight()
         if key_pressed[K_SPACE]:
             # 控制发射子弹频率,并发射子弹
-            if frequency %40 == 0:
+            if frequency % 40 == 0:
                 self.player.shoot()
             frequency += 1
             if frequency >= 40:
