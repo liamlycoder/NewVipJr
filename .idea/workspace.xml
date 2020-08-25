@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6540ee4-2821-4809-9ea2-9535df770a03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/NewVipJr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NewVipJr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +64,8 @@
       <recent name="F:\Liam\GitProjects\NewVipJr\AI\FaceRecognition" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.code_3">
-    <configuration name="猜数字大小赢金币" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.GAME">
+    <configuration name="GAME" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NewVipJr" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,12 +73,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WAR" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/猜数字大小赢金币.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WAR/GAME.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,28 +101,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/随机涂鸦程序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="code3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="NewVipJr" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WAR" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WAR/code3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GAME" />
         <item itemvalue="Python.code_3" />
         <item itemvalue="Python.code_2_1" />
         <item itemvalue="Python.code_2_2" />
         <item itemvalue="Python.demon" />
-        <item itemvalue="Python.code3" />
       </list>
     </recent_temporary>
   </component>
@@ -334,6 +310,12 @@
       <workItem from="1596548274961" duration="9000" />
       <workItem from="1598002910920" duration="4047000" />
       <workItem from="1598007071343" duration="648000" />
+      <workItem from="1598010357534" duration="3593000" />
+      <workItem from="1598060899772" duration="627000" />
+      <workItem from="1598100974683" duration="659000" />
+      <workItem from="1598158671153" duration="604000" />
+      <workItem from="1598185503211" duration="99000" />
+      <workItem from="1598356539817" duration="1519000" />
     </task>
     <servers />
   </component>
@@ -368,22 +350,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1598007021989">
+    <state width="1815" height="201" key="GridCell.Tab.0.bottom" timestamp="1598360392578">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1598007021989" />
-    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1598007021989">
+    <state width="1815" height="201" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1598360392578" />
+    <state width="1815" height="201" key="GridCell.Tab.0.center" timestamp="1598360392578">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1598007021989" />
-    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1598007021989">
+    <state width="1815" height="201" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1598360392578" />
+    <state width="1815" height="201" key="GridCell.Tab.0.left" timestamp="1598360392578">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1598007021989" />
-    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1598007021989">
+    <state width="1815" height="201" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1598360392578" />
+    <state width="1815" height="201" key="GridCell.Tab.0.right" timestamp="1598360392578">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1598007021989" />
+    <state width="1815" height="201" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1598360392578" />
     <state x="492" y="182" key="SettingsEditor" timestamp="1598002945712">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -413,6 +395,7 @@
     <SUITE FILE_PATH="coverage/NewVipJr$cls_10.coverage" NAME="cls_10 Coverage Results" MODIFIED="1589373331625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rating" />
     <SUITE FILE_PATH="coverage/NewVipJr$01.coverage" NAME="01读取图片 Coverage Results" MODIFIED="1588325168151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
     <SUITE FILE_PATH="coverage/NewVipJr$cls_07.coverage" NAME="cls_07 Coverage Results" MODIFIED="1594255173152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rating" />
+    <SUITE FILE_PATH="coverage/NewVipJr$GAME.coverage" NAME="GAME Coverage Results" MODIFIED="1598360392547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
     <SUITE FILE_PATH="coverage/NewVipJr$code3.coverage" NAME="code3 Coverage Results" MODIFIED="1598006733452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
     <SUITE FILE_PATH="coverage/NewVipJr$09.coverage" NAME="09人脸识别 Coverage Results" MODIFIED="1588324434824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
     <SUITE FILE_PATH="coverage/NewVipJr$demon.coverage" NAME="demon Coverage Results" MODIFIED="1598006895195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
