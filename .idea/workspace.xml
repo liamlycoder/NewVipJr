@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6540ee4-2821-4809-9ea2-9535df770a03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WAR/code_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NewVipJr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NewVipJr.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,14 +61,26 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Liam\GitProjects\NewVipJr\AI\FaceRecognition" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.code_4">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.code_5">
     <configuration name="GAME" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NewVipJr" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,28 +117,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WAR/code_2_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="code_2_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="NewVipJr" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WAR" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WAR/code_2_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,13 +169,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="code_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NewVipJr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WAR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WAR/code_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.code_5" />
         <item itemvalue="Python.code_4" />
         <item itemvalue="Python.code_3" />
         <item itemvalue="Python.code_2_1" />
         <item itemvalue="Python.GAME" />
-        <item itemvalue="Python.code_2_2" />
       </list>
     </recent_temporary>
   </component>
@@ -301,6 +317,7 @@
       <workItem from="1598782796077" duration="3189000" />
       <workItem from="1599284162146" duration="2079000" />
       <workItem from="1599310202620" duration="3833000" />
+      <workItem from="1599907601964" duration="1676000" />
     </task>
     <task id="LOCAL-00001" summary="飞机大战4">
       <created>1599290036586</created>
@@ -378,42 +395,43 @@
     <state x="583" y="273" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1599290040900" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/NewVipJr$tree_1.coverage" NAME="tree_1 Coverage Results" MODIFIED="1589293455111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TurtleDemo" />
-    <SUITE FILE_PATH="coverage/NewVipJr$code.coverage" NAME="code Coverage Results" MODIFIED="1592047605782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator" />
-    <SUITE FILE_PATH="coverage/NewVipJr$cls16.coverage" NAME="cls16 Coverage Results" MODIFIED="1593498655007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
-    <SUITE FILE_PATH="coverage/NewVipJr$code_4.coverage" NAME="code_4 Coverage Results" MODIFIED="1599289990529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
-    <SUITE FILE_PATH="coverage/NewVipJr$cls_3_TensorflowDemo1.coverage" NAME="cls_3_TensorflowDemo1 Coverage Results" MODIFIED="1596037016209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/DeepLearning" />
-    <SUITE FILE_PATH="coverage/NewVipJr$code_01__1_.coverage" NAME="code_01 (1) Coverage Results" MODIFIED="1589249931646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IfExercise" />
-    <SUITE FILE_PATH="coverage/NewVipJr$test.coverage" NAME="test Coverage Results" MODIFIED="1588662899341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/DeepLearning" />
-    <SUITE FILE_PATH="coverage/NewVipJr$05.coverage" NAME="05人脸检测 Coverage Results" MODIFIED="1588326116160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
-    <SUITE FILE_PATH="coverage/NewVipJr$cls_07_100_.coverage" NAME="cls_07_100% Coverage Results" MODIFIED="1588124909275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rating" />
-    <SUITE FILE_PATH="coverage/NewVipJr$cls_09.coverage" NAME="cls_09 Coverage Results" MODIFIED="1589251454743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rating" />
+    <SUITE FILE_PATH="coverage/NewVipJr$code3.coverage" NAME="code3 Coverage Results" MODIFIED="1598006733452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
+    <SUITE FILE_PATH="coverage/NewVipJr$demon.coverage" NAME="demon Coverage Results" MODIFIED="1598006895195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
+    <SUITE FILE_PATH="coverage/NewVipJr$FaceRecognition.coverage" NAME="FaceRecognition Coverage Results" MODIFIED="1588326267251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
     <SUITE FILE_PATH="coverage/NewVipJr$cls_40.coverage" NAME="cls_40 Coverage Results" MODIFIED="1595662376183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewVipJr$code_1.coverage" NAME="code_1 Coverage Results" MODIFIED="1596260410314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
-    <SUITE FILE_PATH="coverage/NewVipJr$tuo.coverage" NAME="tuo Coverage Results" MODIFIED="1593942670556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NewVipJr$cls_1_Perceptron.coverage" NAME="cls_1_Perceptron Coverage Results" MODIFIED="1588661217366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/DeepLearning" />
-    <SUITE FILE_PATH="coverage/NewVipJr$cls_2_LinearUnit.coverage" NAME="cls_2_LinearUnit Coverage Results" MODIFIED="1590165472594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/DeepLearning" />
-    <SUITE FILE_PATH="coverage/NewVipJr$02.coverage" NAME="02将图片灰度转换 Coverage Results" MODIFIED="1588325172742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
-    <SUITE FILE_PATH="coverage/NewVipJr$code_01.coverage" NAME="code_01 Coverage Results" MODIFIED="1589249755806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IfExercise" />
-    <SUITE FILE_PATH="coverage/NewVipJr$code_2_1.coverage" NAME="code_2_1 Coverage Results" MODIFIED="1598360706686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
-    <SUITE FILE_PATH="coverage/NewVipJr$cls_24.coverage" NAME="cls_24 Coverage Results" MODIFIED="1596242756994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NewVipJr$03.coverage" NAME="03修改图片的尺寸 Coverage Results" MODIFIED="1588325177656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
-    <SUITE FILE_PATH="coverage/NewVipJr$08.coverage" NAME="08训练数据 Coverage Results" MODIFIED="1588324267958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
-    <SUITE FILE_PATH="coverage/NewVipJr$cls_10.coverage" NAME="cls_10 Coverage Results" MODIFIED="1589373331625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rating" />
-    <SUITE FILE_PATH="coverage/NewVipJr$01.coverage" NAME="01读取图片 Coverage Results" MODIFIED="1588325168151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
-    <SUITE FILE_PATH="coverage/NewVipJr$cls_07.coverage" NAME="cls_07 Coverage Results" MODIFIED="1594255173152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rating" />
-    <SUITE FILE_PATH="coverage/NewVipJr$GAME.coverage" NAME="GAME Coverage Results" MODIFIED="1598360392547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
-    <SUITE FILE_PATH="coverage/NewVipJr$code3.coverage" NAME="code3 Coverage Results" MODIFIED="1598006733452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
-    <SUITE FILE_PATH="coverage/NewVipJr$09.coverage" NAME="09人脸识别 Coverage Results" MODIFIED="1588324434824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
-    <SUITE FILE_PATH="coverage/NewVipJr$demon.coverage" NAME="demon Coverage Results" MODIFIED="1598006895195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
-    <SUITE FILE_PATH="coverage/NewVipJr$04_.coverage" NAME="04绘制矩形_圆 Coverage Results" MODIFIED="1588325183246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
-    <SUITE FILE_PATH="coverage/NewVipJr$FaceRecognition.coverage" NAME="FaceRecognition Coverage Results" MODIFIED="1588326267251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
-    <SUITE FILE_PATH="coverage/NewVipJr$cls_05.coverage" NAME="cls_05 Coverage Results" MODIFIED="1589801057041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rating" />
-    <SUITE FILE_PATH="coverage/NewVipJr$setDemo.coverage" NAME="setDemo Coverage Results" MODIFIED="1596260172982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NewVipJr$.coverage" NAME="统计成绩榜人数 Coverage Results" MODIFIED="1595157056775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewVipJr$code_2_2.coverage" NAME="code_2_2 Coverage Results" MODIFIED="1598006904865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
+    <SUITE FILE_PATH="coverage/NewVipJr$cls_3_TensorflowDemo1.coverage" NAME="cls_3_TensorflowDemo1 Coverage Results" MODIFIED="1596037016209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/DeepLearning" />
+    <SUITE FILE_PATH="coverage/NewVipJr$tuo.coverage" NAME="tuo Coverage Results" MODIFIED="1593942670556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewVipJr$08.coverage" NAME="08训练数据 Coverage Results" MODIFIED="1588324267958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
     <SUITE FILE_PATH="coverage/NewVipJr$code_02.coverage" NAME="code_02 Coverage Results" MODIFIED="1589250255660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IfExercise" />
-    <SUITE FILE_PATH="coverage/NewVipJr$code_3.coverage" NAME="code_3 Coverage Results" MODIFIED="1598532532846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
+    <SUITE FILE_PATH="coverage/NewVipJr$GAME.coverage" NAME="GAME Coverage Results" MODIFIED="1598360392547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
+    <SUITE FILE_PATH="coverage/NewVipJr$04_.coverage" NAME="04绘制矩形_圆 Coverage Results" MODIFIED="1588325183246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
     <SUITE FILE_PATH="coverage/NewVipJr$mainGame.coverage" NAME="mainGame Coverage Results" MODIFIED="1598002982279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
+    <SUITE FILE_PATH="coverage/NewVipJr$01.coverage" NAME="01读取图片 Coverage Results" MODIFIED="1588325168151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
+    <SUITE FILE_PATH="coverage/NewVipJr$cls_07_100_.coverage" NAME="cls_07_100% Coverage Results" MODIFIED="1588124909275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rating" />
+    <SUITE FILE_PATH="coverage/NewVipJr$.coverage" NAME="统计成绩榜人数 Coverage Results" MODIFIED="1595157056775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewVipJr$cls_1_Perceptron.coverage" NAME="cls_1_Perceptron Coverage Results" MODIFIED="1588661217366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/DeepLearning" />
+    <SUITE FILE_PATH="coverage/NewVipJr$code_3.coverage" NAME="code_3 Coverage Results" MODIFIED="1598532532846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
+    <SUITE FILE_PATH="coverage/NewVipJr$tree_1.coverage" NAME="tree_1 Coverage Results" MODIFIED="1589293455111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TurtleDemo" />
+    <SUITE FILE_PATH="coverage/NewVipJr$cls_05.coverage" NAME="cls_05 Coverage Results" MODIFIED="1589801057041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rating" />
+    <SUITE FILE_PATH="coverage/NewVipJr$03.coverage" NAME="03修改图片的尺寸 Coverage Results" MODIFIED="1588325177656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
+    <SUITE FILE_PATH="coverage/NewVipJr$09.coverage" NAME="09人脸识别 Coverage Results" MODIFIED="1588324434824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
+    <SUITE FILE_PATH="coverage/NewVipJr$code_5.coverage" NAME="code_5 Coverage Results" MODIFIED="1599908466772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
+    <SUITE FILE_PATH="coverage/NewVipJr$code_01.coverage" NAME="code_01 Coverage Results" MODIFIED="1589249755806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IfExercise" />
+    <SUITE FILE_PATH="coverage/NewVipJr$cls_2_LinearUnit.coverage" NAME="cls_2_LinearUnit Coverage Results" MODIFIED="1590165472594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/DeepLearning" />
+    <SUITE FILE_PATH="coverage/NewVipJr$code_01__1_.coverage" NAME="code_01 (1) Coverage Results" MODIFIED="1589249931646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IfExercise" />
+    <SUITE FILE_PATH="coverage/NewVipJr$cls_07.coverage" NAME="cls_07 Coverage Results" MODIFIED="1594255173152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rating" />
+    <SUITE FILE_PATH="coverage/NewVipJr$code.coverage" NAME="code Coverage Results" MODIFIED="1592047605782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator" />
+    <SUITE FILE_PATH="coverage/NewVipJr$setDemo.coverage" NAME="setDemo Coverage Results" MODIFIED="1596260172982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewVipJr$cls16.coverage" NAME="cls16 Coverage Results" MODIFIED="1593498655007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
+    <SUITE FILE_PATH="coverage/NewVipJr$cls_09.coverage" NAME="cls_09 Coverage Results" MODIFIED="1589251454743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rating" />
+    <SUITE FILE_PATH="coverage/NewVipJr$05.coverage" NAME="05人脸检测 Coverage Results" MODIFIED="1588326116160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
+    <SUITE FILE_PATH="coverage/NewVipJr$code_4.coverage" NAME="code_4 Coverage Results" MODIFIED="1599289990529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
+    <SUITE FILE_PATH="coverage/NewVipJr$cls_10.coverage" NAME="cls_10 Coverage Results" MODIFIED="1589373331625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rating" />
+    <SUITE FILE_PATH="coverage/NewVipJr$cls_24.coverage" NAME="cls_24 Coverage Results" MODIFIED="1596242756994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewVipJr$02.coverage" NAME="02将图片灰度转换 Coverage Results" MODIFIED="1588325172742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
+    <SUITE FILE_PATH="coverage/NewVipJr$test.coverage" NAME="test Coverage Results" MODIFIED="1588662899341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/DeepLearning" />
+    <SUITE FILE_PATH="coverage/NewVipJr$code_2_1.coverage" NAME="code_2_1 Coverage Results" MODIFIED="1598360706686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
   </component>
 </project>
