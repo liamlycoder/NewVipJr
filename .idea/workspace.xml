@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6540ee4-2821-4809-9ea2-9535df770a03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WAR/code_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NewVipJr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NewVipJr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/cls34.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,8 +78,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.code_5">
-    <configuration name="GAME" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.cls34">
+    <configuration name="cls34" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NewVipJr" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,12 +87,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WAR" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WAR/GAME.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020/cls34.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cls34" />
         <item itemvalue="Python.code_5" />
         <item itemvalue="Python.code_4" />
         <item itemvalue="Python.code_3" />
         <item itemvalue="Python.code_2_1" />
-        <item itemvalue="Python.GAME" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +315,8 @@
       <workItem from="1598782796077" duration="3189000" />
       <workItem from="1599284162146" duration="2079000" />
       <workItem from="1599310202620" duration="3833000" />
-      <workItem from="1599907601964" duration="1676000" />
+      <workItem from="1599907601964" duration="2142000" />
+      <workItem from="1599970880965" duration="1721000" />
     </task>
     <task id="LOCAL-00001" summary="飞机大战4">
       <created>1599290036586</created>
@@ -399,6 +398,7 @@
     <SUITE FILE_PATH="coverage/NewVipJr$demon.coverage" NAME="demon Coverage Results" MODIFIED="1598006895195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
     <SUITE FILE_PATH="coverage/NewVipJr$FaceRecognition.coverage" NAME="FaceRecognition Coverage Results" MODIFIED="1588326267251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/FaceRecognition" />
     <SUITE FILE_PATH="coverage/NewVipJr$cls_40.coverage" NAME="cls_40 Coverage Results" MODIFIED="1595662376183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewVipJr$cls34.coverage" NAME="cls34 Coverage Results" MODIFIED="1599972633428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020" />
     <SUITE FILE_PATH="coverage/NewVipJr$code_1.coverage" NAME="code_1 Coverage Results" MODIFIED="1596260410314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
     <SUITE FILE_PATH="coverage/NewVipJr$code_2_2.coverage" NAME="code_2_2 Coverage Results" MODIFIED="1598006904865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WAR" />
     <SUITE FILE_PATH="coverage/NewVipJr$cls_3_TensorflowDemo1.coverage" NAME="cls_3_TensorflowDemo1 Coverage Results" MODIFIED="1596037016209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/DeepLearning" />
